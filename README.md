@@ -1,3 +1,10 @@
+<p align="center">
+    <img src="images/image.png" alt="Image 1" width="200" style="margin-right: 30px;">
+    <img src="images/image_1.png" alt="Image 2" width="200" style="margin-right: 30px;">
+    <img src="images/image_2.png" alt="Image 3" width="200">
+</p>
+
+
 # 🎒 Pack Your Bag - Android Application  
 
 ## 📌 Overview  
